@@ -11,7 +11,7 @@
 # Problems during project period
 ![image](https://user-images.githubusercontent.com/104330432/197436644-aabebb4a-2276-4b3d-bb08-9a2efaa30ad9.png)
 
-# Algorithm
+# Final Algorithm
 ## Overview
 ![image](https://user-images.githubusercontent.com/104330432/197434301-e5ef9d99-dbae-4932-b057-7ebb76a92938.png)
 ## Rembg
