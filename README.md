@@ -23,7 +23,7 @@
 # Result
 [https://www.notion.so/17f0a14132c14e6e8eb3f0b38294a15c] 링크에서 측정 결과 및 이미지를 확인하실수 있습니다
 ![image](https://user-images.githubusercontent.com/104330432/197435201-56730df9-80d1-47e5-9161-c98aeb15e0dc.png)
-![image](https://user-images.githubusercontent.com/104330432/197435222-58e466fd-0d1b-428b-9220-02f5fe8d0028.png)\
+![image](https://user-images.githubusercontent.com/104330432/197435222-58e466fd-0d1b-428b-9220-02f5fe8d0028.png)
 
 ![image](https://user-images.githubusercontent.com/104330432/197435265-93be62b7-d48a-4352-aede-2e9529dfeb59.png)
 ![image](https://user-images.githubusercontent.com/104330432/197435282-a6590ef6-622e-4754-8851-1917dcfd01b4.png)
