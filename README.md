@@ -6,6 +6,9 @@
 # 팀원 역할 소개 
 ![image](https://user-images.githubusercontent.com/104330432/197435958-ad756fdb-c542-4fb4-8952-e48b0ab4fa45.png)
 
+# Initial Plan App Mockup
+![image](https://user-images.githubusercontent.com/104330432/197436527-8b716536-5a52-4a06-8044-b3f4db0097d0.png)
+
 # Algorithm
 ## Overview
 ![image](https://user-images.githubusercontent.com/104330432/197434301-e5ef9d99-dbae-4932-b057-7ebb76a92938.png)
