@@ -3,6 +3,9 @@
 # Description
 - 스마트폰 앱을 이용하여 간편하게 체적 측량을 할 수 있게 구현을 하는것이 목표
 - 체적 측량앱을 통한 효율적인 상품 관리 및 진열 계획을 용이하게 하는것이 목표
+# 팀원 역할 소개 
+![image](https://user-images.githubusercontent.com/104330432/197435958-ad756fdb-c542-4fb4-8952-e48b0ab4fa45.png)
+
 # Algorithm
 ## Overview
 ![image](https://user-images.githubusercontent.com/104330432/197434301-e5ef9d99-dbae-4932-b057-7ebb76a92938.png)
@@ -16,8 +19,6 @@
 ![image](https://user-images.githubusercontent.com/104330432/197434867-60534ac3-8aee-4214-a85f-e0d8d5167fc5.png)
 ## Aruco marker detect 및 Pixel to cm 변환
 ![image](https://user-images.githubusercontent.com/104330432/197435037-007116a3-3da2-4691-bfc5-9f27386dab29.png)
-
-
 
 # Result
 [https://www.notion.so/17f0a14132c14e6e8eb3f0b38294a15c] 링크에서 측정 결과 및 이미지를 확인하실수 있습니다
