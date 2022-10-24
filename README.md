@@ -39,3 +39,7 @@ https://user-images.githubusercontent.com/104330432/197432452-dbf89d6b-1bc3-4009
 # 보완 및 업데이트 아이디어
 ![image](https://user-images.githubusercontent.com/104330432/197435364-6afbb608-8118-47f5-bac0-0e8a678ec8ce.png)
 
+# Links
+- 기획, 중간, 결과 발표자료 [https://github.com/Fit-in-volume/Fit-In-Volume/tree/main/docs/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C]
+- Flask code [https://github.com/Fit-in-volume/Fit-In-Volume/tree/main/Flask]
+- Notion link [https://www.notion.so/5-3ef6d61302e84b539e246716b1c9d03f]
